@@ -14,6 +14,7 @@ It contains among other things:
 
 * useful linear algebra, Fourier transform, and random number capabilities
 
+## Key Ideas
 
 * Single Data Type very efficient in memory
 * Operations across all array members += 10 etc
