@@ -4,3 +4,4 @@ notebooks/numpy/mycsv.csv
 notebooks/numpy/myfloats.txt
 notebooks/numpy/myints.txt
 notebooks/s3.csv
+data/titanic_uniq_3_cols.csv
